@@ -1,5 +1,7 @@
 # WinUI Netflix
 
+<p align="center"> <img src="/screenshot.png" alt="Netflix for Windows" width="900"> </p>
+
 A lightweight Netflix desktop application built with WinUI 3 and WebView2.
 
 ## Features
