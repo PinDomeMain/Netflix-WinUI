@@ -1,4 +1,4 @@
-# Netflix for Windows
+# WinUI Netflix
 
 A lightweight Netflix desktop application built with WinUI 3 and WebView2.
 
